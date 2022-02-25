@@ -8,3 +8,7 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+public/uploads
+!public/uploads/pets/.gitkeep
+!public/uploads/pet-categories/.gitkeep
